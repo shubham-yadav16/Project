@@ -8,6 +8,9 @@ int num =sc.nextInt();
 
 System.out.println("Factorial o f"+num);
 
+System.out.println("For GitHub");
+
+
 for(int i=num-1;i>=1;i--){
  num *= i ;
 
